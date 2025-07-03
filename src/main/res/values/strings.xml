@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoCoffeShop</string>
+    <string name="get_started">Get Started</string>
+    <string name="search">Search</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="see_all">See All</string>
+</resources>
